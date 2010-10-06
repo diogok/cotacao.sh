@@ -24,4 +24,4 @@
 
 ## Autores
 
-Diogo Souza, Anna Cruz e Pedro Menezes
+Diogo Souza (@diogok), Anna Cruz(@yuizinha) e Pedro Menezes(@pedromenezes).
