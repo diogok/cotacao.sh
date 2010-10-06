@@ -1,11 +1,27 @@
+# Cotacao.sh
 
-Antes:
+## Antes
+
   ls | grep "^[^\.]\+$" | xargs chmod +x
 
-Modo de usar:
-  ./dolar2real 1.50
-  ./real2dolar 1.50
-  ./euro2real 1.50
-  ./real2euro 1.50
+## Modo de usar
 
-Autores: Diogo Souza, Anna Cruz e Pedro Menezes
+### Dólar para Real
+    
+./dolar2real 1.50
+  
+### Real para dólar  
+  
+./real2dolar 1.50
+
+### Euro para Real
+
+./euro2real 1.50
+  
+### Real para Euro
+
+./real2euro 1.50
+
+## Autores
+
+Diogo Souza, Anna Cruz e Pedro Menezes
