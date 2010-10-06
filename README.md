@@ -2,7 +2,7 @@
 
 ## Antes
 
-  ls | grep "^[^\.]\+$" | xargs chmod +x
+  ls | grep "\^[^\\.]\\+$" | xargs chmod +x
 
 ## Modo de usar
 
