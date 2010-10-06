@@ -1,1 +1,1 @@
-echo "$1 / $(curl http://dolarhoje.com/cotacao.txt --silent | sed "s/,/./g") " | bc
+echo $1 / `curl -s http://dolarhoje.com/cotacao.txt | sed s/,/./g` | bc -l
